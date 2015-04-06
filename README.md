@@ -43,6 +43,12 @@ Or, just the mixins:
 
     @import typeplate/mixins
 
+For the helpers, you need to also import the vars:
+
+    @import typeplate/vars
+    @import typeplate/mixins
+    @import typeplate/helpers
+
 For instructions on the basis of this awesome library, please see their
 [excellent documentation](http://typeplate.com).
 
