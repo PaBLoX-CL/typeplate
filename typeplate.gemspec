@@ -15,6 +15,7 @@ Gem::Specification.new do |spec|
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.require_paths = ["lib"]
+  spec.licenses      = ['CC-BY-3.0', 'MIT']
 
   spec.add_runtime_dependency "sass", "~> 3.0"
 
