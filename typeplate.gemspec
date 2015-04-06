@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Pablo Olmos de Aguilera Corradini"]
   spec.email         = ["pablo+gem@odac.co"]
 
-  spec.summary       = "A gem to access Typeplate Starter-kit goodness."
+  spec.summary       = "A gem to access the [Typeplate](http://typeplate.com) sass library."
   spec.description   = %q{Typeplate is a “Typographic Starter Kit.” We don’t make aesthetic design choices, but define proper markup with extensible styling for common typographic patterns.}
   spec.homepage      = "https://github.com/PaBLoX-CL/typeplate"
 
